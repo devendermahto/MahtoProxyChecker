@@ -3,4 +3,4 @@ This Project is an inspiration for new comers to learn how to find high quality 
 
 To Learn More About It
 
-Visit: https://mahtotechnologies.com/blog/2019/05/04/using-nmap-to-scan-for-proxy-servers/
+Visit: https://blog.mahtotechnologies.com/2019/05/04/using-nmap-to-scan-for-proxy-servers/
